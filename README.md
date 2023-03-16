@@ -9,9 +9,9 @@ Heyy!! sou a Carol e estou constantemente me aperfeçoando para me tornar uma ci
 - Apaixonada por cinema, séries, psicologia e todos os animais do mundo 🎥 📚 🐈
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=carolinepistoresi@gmail.com)](carolinepistoresi@gmail.com)
-![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit=https://www.linkedin.com/in/caroline-pistoresi-83928785//) 
-![steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white&link=https://steamcommunity.com/id/pistoresi/)
-![Discord](https://img.shields.io/badge/-Discord-ff3a5e?style=for-the-badge&logo=Discord&logoColor=FFF&link=https://discord.gg/pistoresicarol#1245)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit=https://www.linkedin.com/in/caroline-pistoresi-83928785//)](https://www.linkedin.com/in/caroline-pistoresi-83928785/) 
+[![steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white&link=https://steamcommunity.com/id/pistoresi/)](https://steamcommunity.com/id/pistoresi/)
+[![Discord](https://img.shields.io/badge/-Discord-ff3a5e?style=for-the-badge&logo=Discord&logoColor=FFF&link=https://discord.gg/pistoresicarol#1245)](https://discord.gg/pistoresicarol#1245)
 
 
  #### 💻 Rotina de estudos e foco:
